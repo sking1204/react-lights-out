@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Board /> rendering inital board and win state matches snapshot for full board 1`] = `
+<DocumentFragment>
+  <div>
+    <button>
+      Start Game
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`<Board /> rendering inital board state matches snapshot for full board 1`] = `
+<DocumentFragment>
+  <div>
+    <button>
+      Start Game
+    </button>
+  </div>
+</DocumentFragment>
+`;
